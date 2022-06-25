@@ -8,6 +8,7 @@ IS
 
 ********* Description: Procedure to create audit table and audit trigger ******
 ****** Input Parameters: Table name for which auditing has to be enabled ******
+****** Author: Srikant S
 
 */
 
